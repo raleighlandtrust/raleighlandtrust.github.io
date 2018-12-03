@@ -1,0 +1,15 @@
+---
+layout: default
+img: 
+category: about
+title: About
+description: |
+---
+The Raleigh Area Land Trust was officially formed in July 2018 in order to:
+
+ - Provide affordable housing opportunities primarily to low- and moderate-income households that are controlled by residents and the community on a long-term basis.  
+ - Preserve the quality and affordability of housing for present and future residents and the community on a long-term basis.  
+ - Acquire developed or undeveloped land, to hold land in perpetuity, to hold ground leases, and, to arrange for the purchase, sale and repurchasing of housing and other structural improvements as appropriate.  
+ - Make land available for non-residential projects, activities and improvements that serve low- and moderate-income households and that improve the quality of life in the community.  
+ 
+ 
